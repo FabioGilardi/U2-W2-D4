@@ -1,0 +1,20 @@
+@import "scss/functions";
+@import "scss/variables";
+
+// COLORS
+
+// $new-primary: rgb(0, 255, 0);
+// $new-secondary: rgb(0, 0, 0);
+// $new-warning: orange;
+
+// $new-theme-colors: (
+//   "primary": $new-primary,
+//   "secondary": $new-secondary,
+//   "warning": $new-warning,
+//   "giallo": yellow,
+//   "antonio": $teal-700,
+// );
+
+// $theme-colors: map-merge($theme-colors, $new-theme-colors);
+
+@import "scss/bootstrap.scss";
